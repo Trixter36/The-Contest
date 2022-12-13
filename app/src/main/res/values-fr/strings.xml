@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">La compétition</string>
+    <string name="Increment">Incrément</string>
+    <string name="Decrement">Décrémenter</string>
+    <string name="Reset">Réinitialiser</string>
+</resources>
